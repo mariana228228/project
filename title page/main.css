@@ -111,7 +111,7 @@ line-height: 30px;
     background: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(1f599b8e1518949729e268186aed5b1e.jpeg)
+    background-image: url(imgs/1f599b8e1518949729e268186aed5b1e.jpeg)
     
 }
 .ul{
@@ -289,7 +289,7 @@ line-height: 25px;
    
 } */
 
-.imeges{
+/* .imeges{ */
 /* 
     margin-left: 100px;
     max-width: 635px;
@@ -300,7 +300,6 @@ line-height: 25px;
     /* grid-template-columns: 350px  550px   ;
     grid-template-rows: 150px 103px 400px ; */
     
-}
 
 
 .one{
